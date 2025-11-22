@@ -1,0 +1,6 @@
+# This file contains all the dependencies that are required to run this code
+
+langchain-google-genai==3.0.3
+langgraph==1.0.3
+python-dotenv==1.1.1
+pydantic==2.11.7
